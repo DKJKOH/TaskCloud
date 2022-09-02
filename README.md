@@ -12,4 +12,4 @@ Steps to try out the application
 3) Once steps 1 and 2 are done, input the command in the terminal to start the application : npm start
 4) The terminal should produce a QR code which you would need to scan using: (Android) - Expo Go Application (IOS) - Camera application
 5) You are ready to try out the application on your phone!!
-Login information (You can create your own) Email: jondoe@Gmail.com Password: lmaook
+Login information (You can create your own) Email: johndoe@Gmail.com Password: lmaook
